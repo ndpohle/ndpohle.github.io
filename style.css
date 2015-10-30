@@ -1,11 +1,14 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
   font-weight: 300;
-  background: url(linedpaper.png) repeat;
+  /*background: url(linedpaper.png) repeat;*/
 }
 #Natespic {
 	width: 175px;
 	border: 25px solid #000A80;
+}
+body {
+	background-color: gray
 }
 #wrapper {
   width: 960px;
