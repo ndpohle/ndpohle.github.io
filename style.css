@@ -3,7 +3,21 @@ body {
   font-weight: 300;
   background: url(linedpaper.png) repeat;
 }
+#Natespic {
+	width: 175px;
+	border: 25px solid #000A80;
+}
 #wrapper {
   width: 960px;
   margin: 20px auto;
+}
+h1, h2, h3 {
+	color: red;
+}
+#summary {
+	color: orange;	
+}
+
+.unicorn {
+	color: purple;
 }
