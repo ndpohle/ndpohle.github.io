@@ -19,3 +19,8 @@ body {
 	width: 300px;
 	border: 25px solid green;
 }
+
+#restaurants {
+	width: 340px;
+	height: 200px;
+	}
